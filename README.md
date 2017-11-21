@@ -19,7 +19,7 @@ For our purposes we will be using the Mac OS X command line using the Bash shell
 <a href="https://www.gnu.org/software/bash/"><img src="assets/bash.png" style="max-width: 100px; padding-right: 10px;" /></a>
 
 Apple Terminal
-<a href="https://en.wikipedia.org/wiki/Terminal_(macOS)"><img src="assets/terminal.png" style="max-width: 100px; padding-right: 10px;" /></a>
+<a href="https://en.wikipedia.org/wiki/Terminal_(macOS)"><img src="assets/terminal.jpeg" style="max-width: 100px; padding-right: 10px;" /></a>
 
 For Windows users I'll cover this later but for now look in the additional resources to get started.
 
@@ -87,6 +87,8 @@ If you tried the `man cd` command, you may wonder how to close out and return to
 ## The Challenge
 
 TIP: get used to using the spotlight tool built in Apple. Try <kbd>Command</kbd>+<kbd>Space</kbd> and type in `termianl` then hit enter.
+
+TIP 2: try hitting `tab` after typing the first few letters of a file or directory. It will auto complete if it can. Use this feature.
 
 1. navigate to the root of your terminal
 2. make a new folder called `workspace`
