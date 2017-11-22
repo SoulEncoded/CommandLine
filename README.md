@@ -1,5 +1,7 @@
 # Command Line
 
+<a href="https://www.youtube.com/watch?v=rA1mrm9oJKs"><img src="https://img.youtube.com/vi/rA1mrm9oJKs.jpg"/></a>
+  
 ## What is Command line
 When I first started to learn how to program, I remember that the Command Line Interface (CLI) was very intimidating. It was like black magic watching my developer friends hammer away commands into a black terminal. Just like everything in programming, the bare essentials of CLI is small. So what is CLI?
 
@@ -107,6 +109,7 @@ TIP 2: try hitting `tab` after typing the first few letters of a file or directo
 remember to have fun with these challenges and play around with the command line.
 
 ## The Solutions
+
 
 ## Additional Resources
 
